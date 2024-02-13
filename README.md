@@ -1,6 +1,20 @@
 
 # TypeScript
 
+
+
+
+
+
+![1_DcuwwYCQM2E4ufeoVXjkmw](https://github.com/aryat10/TypeScript-interaction-/assets/107941072/0f11004e-f8c3-4b8b-9747-7efd06eb3406)
+
+
+
+
+
+
+
+
 [![GitHub Actions CI](https://github.com/microsoft/TypeScript/workflows/CI/badge.svg)](https://github.com/microsoft/TypeScript/actions?query=workflow%3ACI)
 [![npm version](https://badge.fury.io/js/typescript.svg)](https://www.npmjs.com/package/typescript)
 [![Downloads](https://img.shields.io/npm/dm/typescript.svg)](https://www.npmjs.com/package/typescript)
